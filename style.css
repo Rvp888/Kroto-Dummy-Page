@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: black;
+    
+}
+
+
+#inner_div {
+    width: 50vw;
+    height: 100vh;
+    background-color: darkcyan;
+}
+
+#heading1 {
+    color: white;
+    position: absolute;
+    left:20vw;
+    right:20vw;
+    top: 15vh;
+    font-size: 70px;
+    text-align: center;
+}
